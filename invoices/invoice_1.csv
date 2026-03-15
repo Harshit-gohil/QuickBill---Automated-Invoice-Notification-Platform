@@ -1,0 +1,5 @@
+Order ID,Product,Quantity,Price,GST
+1,laptop,2,25000.00,18
+
+Total Amount:,50000.00
+Total GST:,9000.00
